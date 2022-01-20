@@ -1,5 +1,4 @@
 from .dto import ChoiceDTO, QuestionDTO, QuizDTO, AnswerDTO, AnswersDTO
-from typing import List
 
 
 class QuizResultService:
